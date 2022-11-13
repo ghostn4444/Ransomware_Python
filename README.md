@@ -83,6 +83,8 @@ passphrase = 'GTH3kf7'
 - does not encrypt files inside other folders only files in the current folder!
 - do not encrypt folder!
 
+CONTEÚDO USADO NESSE SCRIPT É DE TOTAL DIDÁTICA, O CASO SEJA USADO DE MODO INDEVIDO, NÃO RESPONSABILIZAREI PELOS ATOS DE QUEM ESTIBVER USANDO.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
