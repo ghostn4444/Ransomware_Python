@@ -80,10 +80,10 @@ passphrase = 'GTH3kf7'
 
 ## Important
 
-- does not encrypt files inside other folders only files in the current folder!
-- do not encrypt folder!
+# Isenção de responsabilidade
 
-CONTEÚDO USADO NESSE SCRIPT É DE TOTAL DIDÁTICA, O CASO SEJA USADO DE MODO INDEVIDO, NÃO RESPONSABILIZAREI PELOS ATOS DE QUEM ESTIBVER USANDO.
+## Esta ferramenta é desenvolvida para fins educacionais. Aqui ele demonstra como o Ransomware funciona. Se for usada para prejudicar alguém, pode tentar por sua própria conta e risco. Você tem suas próprias responsabilidades e é responsável por qualquer dano ou violação de leis por esta ferramenta. O autor não é responsável por qualquer uso indevido do Ransomware_Python!
+Este repositório é de código aberto para ajudar os outros. Portanto, se desejar copiar, considere dar os créditos! 
 
 ## License
 
