@@ -145,6 +145,20 @@ build/linux/
 ├── decript-window
 ```
 
+### 🚀 Como usar
+
+#### 📦 instalar dependências
+```make install```
+
+#### 🧪 rodar projeto
+```make run```
+
+#### 📦 gerar executáveis
+```make build```
+
+#### 🧹 limpar projeto
+```make clean```
+
 <br/>
 
 ## 🧠 Conceitos abordados
