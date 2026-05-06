@@ -1,19 +1,20 @@
 
-# 🛡️ Educational Ransomware Simulator (Python)
+# 👾 Ransomware Simulator (Python)
 
 ### ⚠️ Disclaimer
 
 Este projeto é um **simulador educacional de ransomware**.
-
 Ele foi criado exclusivamente para:
 
 * estudo de cibersegurança
 * demonstração de criptografia de arquivos
 * aprendizado sobre comportamento de malware em ambiente controlado
 
-❌ Não utilize fora de ambientes de teste
-❌ Não execute em arquivos pessoais ou sistemas reais
-✔ Use apenas dentro da pasta `files/`
+**❌ Não utilize fora de ambientes de teste** <br/>
+**❌ Não execute em arquivos pessoais ou sistemas reais** <br/>
+**✔ Use apenas dentro da pasta `files/`** <br/>
+
+!["Screenshot"](https://github.com/ghostn4444/Ransomware_Python/blob/main/Screenshot(1).png)
 
 <br/>
 
